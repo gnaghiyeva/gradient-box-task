@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 50%;
+    margin: 200px auto;
+    text-align: center;
+    border: 1px solid white;
+    height: 250px;
+    background-image: linear-gradient(to right, rgba(254,159,10,255),rgba(246,113,91,255),rgba(239,77,150,255),rgba(222,50,187,255),
+    rgba(147,17,191,255),rgba(116,3,191,255),rgba(84,73,211,255),rgba(52,141,227,255),rgb(95,200,241));
+    
+}
+
+.container_title{
+   margin: 100px auto;
+   color: white;
+   font-size: 60px;
+   
+  
+}
